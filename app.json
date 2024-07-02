@@ -1,6 +1,5 @@
-{
-  "name": "gifted-md@v5.0.0",
-  "description": "I am Gifted-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
+d-md@v5.0.0",
+  "description": "I am Nabesodf-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
   "website": "https://web.giftedtechnexus.co.ke",
   "repository": "https://github.com/mouricedevs/gifted-md",
   "logo": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
@@ -19,14 +18,15 @@
       "value": "private"
     },
      "OWNER_NAME": {
-      "description": "Put the name of Bot Owner",
+      "description": "😭🧐🤔🤓ƬӇЄ ƝƛƁЄƧƠƑ🧠🤯📚😱
+",
       "required": false,
-      "value": "GIFTED TECH"
+      "value": "NABESOF TECH"
     },
     "OWNER_NUMBER": {
       "description": "Put Bot Owner Numbers",
       "required": false,
-      "value": "2547110853827"
+      "value": "989020182461"
     },
      "NOT_ALLOW": {
       "description": "Put value true to disable bot in pm during public mode.",
